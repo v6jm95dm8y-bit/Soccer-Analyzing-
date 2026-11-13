@@ -1,0 +1,6 @@
+.cache/
+results/
+photos/
+__pycache__/
+*.pyc
+*.pptx
